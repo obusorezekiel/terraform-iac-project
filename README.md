@@ -1,7 +1,7 @@
 # A project for the automation of AWS infrastructure with Terraform
 
 # Automate-Infrastructure-With-IAC-using-Terraform-Part-1
-In this project we began the process of automating the infrastructure need to deploy the appilication in [project 15](https://github.com/uzukwujp/Darey.io-Internship/blob/main/project-fifteen.md)
+In this project we began the process of automating the infrastructure need to deploy the appilication in project 15
 
 This is a nice Introduction Infrastructure As Code(IAC) an important ternant of Devops practice. IAC can be done with several tools but in this project we made use of Terraform.
 
